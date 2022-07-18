@@ -2,6 +2,6 @@
 * text=auto
 *.css linguist-detectable=false
 *.php linguist-detectable=true 
-*.js linguist-detectable=true
+*.js linguist-detectable=false
 *.html linguist-detectable=true
 *.xml linguist-detectable=false
