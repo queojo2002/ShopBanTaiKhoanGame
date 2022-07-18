@@ -1,0 +1,2 @@
+[18-May-2022 13:54:33 Asia/Ho_Chi_Minh] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/mewjiexehosting/public_html/accountshoptest.tk/admin/Manager_View_His_Toup.php on line 63
+[10-Jul-2022 11:30:32 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined function get_string_rank() in /home/mewjiexehosting/public_html/accountshoptest.tk/admin/upacclq.php on line 66
