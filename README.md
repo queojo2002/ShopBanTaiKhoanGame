@@ -1,9 +1,10 @@
 # Shop Bán Tài Khoản Game 
-- Ngôn ngữ sử dụng: 
-    - PHP
-    - HTML
+- FrontEnd: 
+	- HTML
     - CSS
-    - Javascript
+	- Javascript
+- BackEnd: 
+    - PHP
 - Lưu trữ: 
     - MYSQL
 
